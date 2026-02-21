@@ -186,12 +186,3 @@ Seed file path: `server/seed/seed.js`
 
 ---
 
-## Deliverables Checklist (Assignment)
-
-- [x] Full-stack app with dynamic DB-backed data
-- [x] Product-specific routes
-- [x] 3+ products and 2+ variants each
-- [x] API endpoints and schema
-- [x] README with setup, endpoints, tech stack, schema
-- [ ] 2–5 min demo video link (to be added by candidate)
-- [ ] Deployed demo link (to be added by candidate)
